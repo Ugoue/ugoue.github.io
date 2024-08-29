@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ugo Giocanti</title>
+    <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/</link>
+    <description>Recent content on Ugo Giocanti</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 04 May 2023 14:17:37 +0200</lastBuildDate>
+    <atom:link href="https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 2024</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2023_2024/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2023_2024/</guid>
+      <description>First Semester: Conception et Exploitation des Bases de Données&#xA;Cours de niveau L3 Informatique. Cours de bases de données, qui fait suite à un premier cours en L2 de bases de données. TPs en SQL. Projet en SQL+Python.&#xA;Responsables du cours: Mario Cortes-Cornax. </description>
+    </item>
+    <item>
+      <title>2022 2023</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2022_2023/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2022_2023/</guid>
+      <description>Second Semester: Operation Research&#xA;Cours de niveau M1 Informatique. Chargé de TD.&#xA;Responsable du cours: Nadia Brauner. First Semester: INF303: Modélisation des structures informatiques&#xA;Cours de niveau L2 Informatique. Algorithmes et notions de base de théorie des graphes. Chargé de TD et TP. TPs en langage Python.&#xA;Responsables du cours: Julie Peyre et Aurélie Lagoutte. </description>
+    </item>
+    <item>
+      <title>Research Interests</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/interests/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/interests/</guid>
+      <description>I am mainly interested in Graph theory, and more specifically I love graph problems involving a topological intuition.&#xA;A few topics I am working on: Cayley graphs, geometric group theory, canonical tree-decompositions, twin-width, universal covering, evasiveness of graph properties, small cancellation theory, fractional colouring of graphs.</description>
+    </item>
+    <item>
+      <title>Interlab football tournament</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/other/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/other/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2021 2022</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2021_2022/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2021_2022/</guid>
+      <description>Second Semester: INF402: Introduction à la logique&#xA;Cours de niveau L2 Informatique. Chargé de TD (seulement pour la première partie: logique booléenne).&#xA;Responsable du cours: Benjamin Wack. First Semester: INF301: Algorithmique et Programmation Impérative&#xA;Cours de niveau L2 Informatique. Chargé de TD et TP. Projets en langage C, sous forme d&amp;rsquo;APPs.&#xA;Responsable du cours: Florent Bouchez-Tichadou. </description>
+    </item>
+    <item>
+      <title>Publications and preprints</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/publications/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/publications/</guid>
+      <description>Preprints Journal and Conference Publications Coarse geometry of quasi-transitive graphs beyond planarity [arXiv]&#xA;Louis Esperet, U.G.&#xA;The Electronic Jouranl of Combinatorics, 31(2), P2.41 (2024). Optimization in graphical small cancellation theory [arXiv]&#xA;Louis Esperet, U.G.&#xA;Discrete Mathematics, 347(4) (2024) . The structure of quasi-transitive graphs avoiding a minor with applications to the domino problem [arXiv]&#xA;Louis Esperet, U.G., Clément Legrand-Duchesne.&#xA;Short version in Eurocomb 2023. Twin-width V: linear minors, modular counting, and matrix multiplication [arXiv]</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/talks/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/talks/</guid>
+      <description>Some presentations I gave:&#xA;Introduction to graph streaming algorithms (for non specialists) [slides] Journées CALAMAR 2024 (online) Minor exclusion in quasi-transitive graphs [slides] [slides2]&#xA;Rauzy Seminar, FRUMAM Marseille (2023)&#xA;JGA 2023, Université Lyon 1&#xA;LoGAlg 2023, Warsawa&#xA;GREYC Caen, Algorithmic seminar (2023)&#xA;Eurocomb 2023, Praha&#xA;Université Paris-Saclay, GALAC team seminar (2023)&#xA;Universität Hamburg, Discrete mathematics team seminar (2023) Twin-width V: linear minors, modular counting and matrix multiplication [slides]&#xA;STACS 2023, Hamburg</description>
+    </item>
+    <item>
+      <title>Short CV</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/about/</guid>
+      <description>I was born in La Seyne-sur-Mer and grew up in Aix-en-Provence. I did two years of scientific preparatory classes in my former high school, the Lycée Paul Cézanne.&#xA;Then I studied three years in the ENS de Lyon, where I obtained both my Licence and Master degrees in Fundamental Computer Sciences.&#xA;In the context of the &amp;ldquo;Diplôme de l&amp;rsquo;ENS de Lyon&amp;rdquo; (which basically consisted in achieving a long series of terribly difficult and useless administrative tasks to end with an additional diplom), I did did two long research internships during the 2021-2022 scholar year, in the MC2 team of ENS de Lyon and then in the ACRO team of LIS-lab in Marseille.</description>
+    </item>
+  </channel>
+</rss>

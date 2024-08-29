@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Ugo Giocanti</title>
+    <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/</link>
+    <description>Recent content in Researches on Ugo Giocanti</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 04 May 2023 14:17:27 +0200</lastBuildDate>
+    <atom:link href="https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Interests</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/interests/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/interests/</guid>
+      <description>I am mainly interested in Graph theory, and more specifically I love graph problems involving a topological intuition.&#xA;A few topics I am working on: Cayley graphs, geometric group theory, canonical tree-decompositions, twin-width, universal covering, evasiveness of graph properties, small cancellation theory, fractional colouring of graphs.</description>
+    </item>
+    <item>
+      <title>Publications and preprints</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/publications/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/publications/</guid>
+      <description>Preprints Journal and Conference Publications Coarse geometry of quasi-transitive graphs beyond planarity [arXiv]&#xA;Louis Esperet, U.G.&#xA;The Electronic Jouranl of Combinatorics, 31(2), P2.41 (2024). Optimization in graphical small cancellation theory [arXiv]&#xA;Louis Esperet, U.G.&#xA;Discrete Mathematics, 347(4) (2024) . The structure of quasi-transitive graphs avoiding a minor with applications to the domino problem [arXiv]&#xA;Louis Esperet, U.G., Clément Legrand-Duchesne.&#xA;Short version in Eurocomb 2023. Twin-width V: linear minors, modular counting, and matrix multiplication [arXiv]</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/talks/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/research/talks/</guid>
+      <description>Some presentations I gave:&#xA;Introduction to graph streaming algorithms (for non specialists) [slides] Journées CALAMAR 2024 (online) Minor exclusion in quasi-transitive graphs [slides] [slides2]&#xA;Rauzy Seminar, FRUMAM Marseille (2023)&#xA;JGA 2023, Université Lyon 1&#xA;LoGAlg 2023, Warsawa&#xA;GREYC Caen, Algorithmic seminar (2023)&#xA;Eurocomb 2023, Praha&#xA;Université Paris-Saclay, GALAC team seminar (2023)&#xA;Universität Hamburg, Discrete mathematics team seminar (2023) Twin-width V: linear minors, modular counting and matrix multiplication [slides]&#xA;STACS 2023, Hamburg</description>
+    </item>
+  </channel>
+</rss>

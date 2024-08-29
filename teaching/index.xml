@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on Ugo Giocanti</title>
+    <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/</link>
+    <description>Recent content in Teachings on Ugo Giocanti</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 04 May 2023 14:17:37 +0200</lastBuildDate>
+    <atom:link href="https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 2024</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2023_2024/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2023_2024/</guid>
+      <description>First Semester: Conception et Exploitation des Bases de Données&#xA;Cours de niveau L3 Informatique. Cours de bases de données, qui fait suite à un premier cours en L2 de bases de données. TPs en SQL. Projet en SQL+Python.&#xA;Responsables du cours: Mario Cortes-Cornax. </description>
+    </item>
+    <item>
+      <title>2022 2023</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2022_2023/</link>
+      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2022_2023/</guid>
+      <description>Second Semester: Operation Research&#xA;Cours de niveau M1 Informatique. Chargé de TD.&#xA;Responsable du cours: Nadia Brauner. First Semester: INF303: Modélisation des structures informatiques&#xA;Cours de niveau L2 Informatique. Algorithmes et notions de base de théorie des graphes. Chargé de TD et TP. TPs en langage Python.&#xA;Responsables du cours: Julie Peyre et Aurélie Lagoutte. </description>
+    </item>
+    <item>
+      <title>2021 2022</title>
+      <link>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2021_2022/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      <guid>https://pagesperso.g-scop.grenoble-inp.fr/~giocantu/teaching/2021_2022/</guid>
+      <description>Second Semester: INF402: Introduction à la logique&#xA;Cours de niveau L2 Informatique. Chargé de TD (seulement pour la première partie: logique booléenne).&#xA;Responsable du cours: Benjamin Wack. First Semester: INF301: Algorithmique et Programmation Impérative&#xA;Cours de niveau L2 Informatique. Chargé de TD et TP. Projets en langage C, sous forme d&amp;rsquo;APPs.&#xA;Responsable du cours: Florent Bouchez-Tichadou. </description>
+    </item>
+  </channel>
+</rss>

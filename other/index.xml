@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Ugo Giocanti</title>
+    <link>http://localhost:1313/~giocantu/other/</link>
+    <description>Recent content in Others on Ugo Giocanti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 04 May 2023 14:17:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/~giocantu/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interlab football tournament</title>
+      <link>http://localhost:1313/~giocantu/other/2021_2022/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      <guid>http://localhost:1313/~giocantu/other/2021_2022/</guid>
+      <description>2024 Edition: The link to subscribe to the 2024 edition of the tournament which should take place in April and May :&#xA;Inscriptions </description>
+    </item>
+  </channel>
+</rss>
