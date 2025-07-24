@@ -12,22 +12,22 @@
     
     
     <item>
-      <title>Research Interests</title>
-      <link>https://ugoue.github.io/research/interests/</link>
-      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
-      
-      <guid>https://ugoue.github.io/research/interests/</guid>
-      <description>I am mainly interested in Graph theory, and more specifically I love graph problems involving a topological intuition.
-A few topics I am working on: Cayley graphs, geometric group theory, canonical tree-decompositions, twin-width, universal covering, evasiveness of graph properties, small cancellation theory, fractional colouring of graphs.</description>
-    </item>
-    
-    <item>
       <title>Interlab football tournament</title>
       <link>https://ugoue.github.io/other/</link>
       <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
       
       <guid>https://ugoue.github.io/other/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ugoue.github.io/research/</link>
+      <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
+      
+      <guid>https://ugoue.github.io/research/</guid>
+      <description>Research interests Most of my research is in Graph theory, but I am also very interested in problems lying at the intersection of graph theory and other areas. In particular, I like concepts related to geometric group theory, coarse geometry or topology.
+A few topics I (am trying to) work on: Cayley graphs, geometric group theory, canonical tree-decompositions, twin-width, universal covering, evasiveness of graph properties, fractional colouring of graphs, diameter-degree problem, group tilings.</description>
     </item>
     
     <item>
@@ -46,44 +46,13 @@ Cours de niveau L2 Informatique.</description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://ugoue.github.io/research/publications/</link>
-      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
-      
-      <guid>https://ugoue.github.io/research/publications/</guid>
-      <description>Preprints  Coarse cops and robber in graphs and groups [arXiv]
-Louis Esperet, Harmender Gahlawat, U.G Period-rigidity of one-relator groups [arXiv]
-Solène J. Esnay, U.G., Etienne Moutot A note on the structure of locally finite planar quasi-transitive graphs [arXiv]
-U.G. Periodic colorings and orientations in infinite graphs [arXiv]
-Tara Abrishami, Louis Esperet, U.G., Matthias Hamann, Paul Knappe, Rögnvaldur G. Möller.  Journal and Conference Publications  Coarse geometry of quasi-transitive graphs beyond planarity [arXiv]</description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>https://ugoue.github.io/research/talks/</link>
-      <pubDate>Thu, 04 May 2023 14:17:27 +0200</pubDate>
-      
-      <guid>https://ugoue.github.io/research/talks/</guid>
-      <description>Some presentations I gave:
- Coarse cops and robber games [slides] [video]
-Jagellonian TCS seminar, Uniwersytet Jagielloński, Kraków Coarse geometry of quasi-transitive graphs [slides]
-JGA 2024, Université de Bourgogne, Dijon
-10th Polish Combinatorial Conference (2024) Introduction to graph streaming algorithms (for non specialists, in french) [slides]
-Journées CALAMAR 2024 (online) Minor exclusion in quasi-transitive graphs [slides] [slides2]
-Rauzy Seminar, FRUMAM Marseille (2023)
-JGA 2023, Université Lyon 1
-LoGAlg 2023, Warsawa</description>
-    </item>
-    
-    <item>
       <title>Short CV</title>
       <link>https://ugoue.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://ugoue.github.io/about/</guid>
-      <description>I was born in La Seyne-sur-Mer and grew up in Aix-en-Provence. I did two years of scientific preparatory classes in my former high school, the Lycée Paul Cézanne.
-Then I studied three years in the ENS de Lyon, where I obtained both my Licence and Master degrees in Fundamental Computer Sciences.
-In the context of the &amp;ldquo;Diplôme de l&amp;rsquo;ENS de Lyon&amp;rdquo; (which basically consisted in achieving a long series of terribly difficult and useless administrative tasks to end with an additional diplom), I did did two long research internships during the 2021-2022 scholar year, in the MC2 team of ENS de Lyon and then in the ACRO team of LIS-lab in Marseille.</description>
+      <description>I obtained my master in fundamental computer science in 2019 at the ENS de Lyon (France).
+From September 2021 to September 2024, I was a PhD student in the Combinatorial Optimization team of G-SCOP laboratory in Grenoble (France), under the supervision of Louis Esperet, and the co-supervision of Stéphan Thomassé. I defended my PhD in Grenoble on the 9th of July 2024. I am now currently a postdoctoral research fellow supervised by Piotr Micek at the Jagiellonian university in Kraków (Poland)</description>
     </item>
     
   </channel>
