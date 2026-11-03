@@ -4,56 +4,37 @@
     <title>Ugo Giocanti</title>
     <link>https://ugoue.github.io/</link>
     <description>Recent content on Ugo Giocanti</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 04 May 2023 14:17:37 +0200</lastBuildDate>
-    
-	<atom:link href="https://ugoue.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://ugoue.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interlab football tournament</title>
       <link>https://ugoue.github.io/other/</link>
       <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
-      
       <guid>https://ugoue.github.io/other/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://ugoue.github.io/research/</link>
       <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
-      
       <guid>https://ugoue.github.io/research/</guid>
-      <description>Research interests Most of my research is in Graph Theory, but I am also very interested in problems lying at the intersection of Graph Theory and other areas. In particular, I like concepts related to Geometric Group Theory, Coarse Geometry or Topology.
-A few topics I (am trying to) work on: Cayley graphs, coarse graph theory, metric graph theory, cycle bases, geometric group theory, canonical tree-decompositions, twin-width, universal covering, evasiveness of graph properties, fractional colouring of graphs, diameter-degree problem, group tilings.</description>
+      <description>&lt;h2 id=&#34;research-interests&#34;&gt;Research interests &lt;a class=&#34;header-link&#34; href=&#34;#research-interests&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Most of my research is in Graph Theory, but I am also very interested in problems lying at the intersection of Graph Theory and other areas. In particular, I like concepts related to Geometric Group Theory, Coarse Geometry or Topology.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A few topics I (am trying to) work on:&lt;/strong&gt; Cayley graphs, coarse graph theory, metric graph theory, cycle bases, geometric group theory, canonical tree-decompositions, twin-width, universal covering, evasiveness of graph properties, fractional colouring of graphs, diameter-degree problem, group tilings.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Teaching (in french)</title>
       <link>https://ugoue.github.io/teaching/</link>
       <pubDate>Thu, 04 May 2023 14:17:37 +0200</pubDate>
-      
       <guid>https://ugoue.github.io/teaching/</guid>
-      <description>2023-2024  Conception et Exploitation des Bases de Données
-Cours de niveau L3 Informatique. Cours de bases de données, qui fait suite à un premier cours en L2 de bases de données. TPs en SQL. Projet en SQL+Python.
-Responsables du cours: Mario Cortes-Cornax.  2022-2023   Operation Research
-Cours de niveau M1 Informatique. Chargé de TD.
-Responsable du cours: Nadia Brauner.
-  INF303: Modélisation des structures informatiques
-Cours de niveau L2 Informatique.</description>
+      <description>&lt;h2 id=&#34;2023-2024&#34;&gt;2023-2024 &lt;a class=&#34;header-link&#34; href=&#34;#2023-2024&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://moodle.caseine.org/course/view.php?id=181&#34;&gt;Conception et Exploitation des Bases de Données&lt;/a&gt;&lt;br&gt;&#xA;Cours de niveau L3 Informatique. Cours de bases de données, qui fait suite à un premier cours en L2 de bases de données. TPs en SQL. Projet en SQL+Python.&lt;br&gt;&#xA;Responsables du cours: Mario Cortes-Cornax.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2022-2023&#34;&gt;2022-2023 &lt;a class=&#34;header-link&#34; href=&#34;#2022-2023&#34;&gt;&lt;svg class=&#34;fill-current o-60 hover-accent-color-light&#34; height=&#34;22px&#34; viewBox=&#34;0 0 24 24&#34; width=&#34;22px&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;none&#34;/&gt;&lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://moodle.caseine.org/course/view.php?id=42&#34;&gt;Operation Research&lt;/a&gt;&lt;br&gt;&#xA;Cours de niveau M1 Informatique. Chargé de TD.&lt;br&gt;&#xA;Responsable du cours: Nadia Brauner.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Short CV</title>
       <link>https://ugoue.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://ugoue.github.io/about/</guid>
-      <description>I obtained my master in fundamental computer science in 2019 at the ENS de Lyon (France).
-From September 2021 to September 2024, I was a PhD student in the Combinatorial Optimization team of G-SCOP laboratory in Grenoble (France), under the supervision of Louis Esperet, and the co-supervision of Stéphan Thomassé. I defended my PhD in Grenoble on the 9th of July 2024. I am now currently a postdoctoral research fellow supervised by Piotr Micek at the Jagiellonian university in Kraków (Poland)</description>
+      <description>&lt;p&gt;I obtained my master in fundamental computer science in 2019 at the ENS de Lyon (France).&lt;br&gt;&#xA;From September 2021 to September 2024, I was a PhD student in the Combinatorial Optimization team of G-SCOP laboratory in Grenoble (France), under the supervision of &lt;a href=&#34;https://oc.g-scop.grenoble-inp.fr/esperet/&#34;&gt;Louis Esperet&lt;/a&gt;, and the co-supervision of &lt;a href=&#34;http://perso.ens-lyon.fr/stephan.thomasse/&#34;&gt;Stéphan Thomassé&lt;/a&gt;. I defended my PhD in Grenoble on the 9th of July 2024.&#xA;I am now currently a postdoctoral research fellow supervised by &lt;a href=&#34;https://page.math.tu-berlin.de/~micek/&#34;&gt;Piotr Micek&lt;/a&gt; at the Jagiellonian university in Kraków (Poland)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

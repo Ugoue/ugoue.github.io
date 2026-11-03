@@ -4,11 +4,8 @@
     <title>Categories on Ugo Giocanti</title>
     <link>https://ugoue.github.io/categories/</link>
     <description>Recent content in Categories on Ugo Giocanti</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr</language>
-    
-	<atom:link href="https://ugoue.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://ugoue.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
